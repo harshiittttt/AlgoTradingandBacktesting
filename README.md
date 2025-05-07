@@ -31,60 +31,48 @@ Welcome to **Indian Stock Market Analysis & Strategy Backtester**, a comprehensi
 ├── 📘 emacrossoverstategy.ipynb                            # EMA crossover strategy backtesting
 ├── 📘 SMA_and_LONGBIAS_Strategy.ipynb                      # SMA-based long-only trading logic
 ├── 📘 Technical_Indicators.ipynb                           # Technical indicator implementations
-<<<<<<< HEAD
+
 ```
 
 ---
-=======
->>>>>>> 38ca15ccbb96e29466914ff3c087cd088de3f70b
+
 
 ## 📸 Screenshots
 
 ### ✅ 1. SMA Crossover Strategy vs Buy & Hold
 
-<<<<<<< HEAD
-![SMA Crossover vs Buy & Hold](./assets/backtestingresults.PNG)
-=======
+
 ![SMA Crossover vs Buy & Hold](assets/backtestingresults.PNG)
->>>>>>> 38ca15ccbb96e29466914ff3c087cd088de3f70b
 
 ---
 
 ### 📊 2. Price with SMA Short & Long Overlay
 
-<<<<<<< HEAD
-![SMA Overlay](./assets/basicanalysis.PNG)
-=======
+
 ![SMA Overlay](assets/basicanalysis.PNG)
->>>>>>> 38ca15ccbb96e29466914ff3c087cd088de3f70b
+
 
 ---
 
 ### 🔥 3. Stock Correlation Heatmap
 
-<<<<<<< HEAD
-![Correlation Heatmap](./assets/corelationheatmap.PNG)
-=======
+
 ![Correlation Heatmap](assets/corelationheatmap.PNG)
->>>>>>> 38ca15ccbb96e29466914ff3c087cd088de3f70b
+
 
 ---
 
 ### 📈 4. Return vs Risk Scatter Plot
 
-<<<<<<< HEAD
-![Return vs Risk](./assets/returnvsrisk.PNG)
-=======
+
 ![Return vs Risk](assets/returnvsrisk.PNG)
->>>>>>> 38ca15ccbb96e29466914ff3c087cd088de3f70b
+
 
 ---
 
 ### 📉 5. Normalized Growth of Multiple Stocks
 
-<<<<<<< HEAD
-![Multi Stock Growth](./assets/standardizationplot.PNG)
-=======
+
 ![Multi Stock Growth](assets/standardizationplot.PNG)
 
 ---
@@ -93,4 +81,3 @@ Welcome to **Indian Stock Market Analysis & Strategy Backtester**, a comprehensi
 
 ![Backtest Code](assets/strategylogics.PNG)
 
->>>>>>> 38ca15ccbb96e29466914ff3c087cd088de3f70b
