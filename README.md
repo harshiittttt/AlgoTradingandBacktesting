@@ -30,3 +30,40 @@ Welcome to **Indian Stock Market Analysis & Strategy Backtester**, a comprehensi
 ├── 📘 emacrossoverstategy.ipynb                            # EMA crossover strategy backtesting
 ├── 📘 SMA_and_LONGBIAS_Strategy.ipynb                      # SMA-based long-only trading logic
 ├── 📘 Technical_Indicators.ipynb                           # Technical indicator implementations
+
+## 📸 Screenshots
+
+### ✅ 1. SMA Crossover Strategy vs Buy & Hold
+
+![SMA Crossover vs Buy & Hold](assets/backtestingresults.PNG)
+
+---
+
+### 📊 2. Price with SMA Short & Long Overlay
+
+![SMA Overlay](assets/basicanalysis.PNG)
+
+---
+
+### 🔥 3. Stock Correlation Heatmap
+
+![Correlation Heatmap](assets/corelationheatmap.PNG)
+
+---
+
+### 📈 4. Return vs Risk Scatter Plot
+
+![Return vs Risk](assets/returnvsrisk.PNG)
+
+---
+
+### 📉 5. Normalized Growth of Multiple Stocks
+
+![Multi Stock Growth](assets/standardizationplot.PNG)
+
+---
+
+### 🧮 6. Backtest Function Code Snippet
+
+![Backtest Code](assets/strategylogics.PNG)
+
