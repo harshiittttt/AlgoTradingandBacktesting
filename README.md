@@ -9,6 +9,18 @@ Welcome to **Indian Stock Market Analysis & Strategy Backtester**, a comprehensi
 
 ---
 
+## 🛠️ Tools & Libraries Used
+
+This project leverages the following Python libraries and tools:
+
+- 📦 **[NumPy](https://numpy.org/)** – Efficient numerical computations  
+- 📈 **[Pandas](https://pandas.pydata.org/)** – Data manipulation and analysis  
+- 📊 **[Matplotlib](https://matplotlib.org/)** – Visualization and plotting  
+- 💹 **[yfinance](https://pypi.org/project/yfinance/)** – Fetching historical stock data from Yahoo Finance  
+- ☁️ **[Google Colab](https://colab.research.google.com/)** – Cloud-based notebook environment for execution and collaboration  
+
+---
+
 ## 🧠 Features
 
 - ✅ Analyze Indian stock market data from the past 10 years  
